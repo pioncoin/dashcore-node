@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var pioncore = require('../lib/cli/pioncore');
+pioncore();
