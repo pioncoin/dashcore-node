@@ -1,7 +1,7 @@
 Pioncore Node
 ============
 
-A Pion full node for building applications and services with Node.js. A node is extensible and can be configured to run additional services. At the minimum a node has an interface to [Pion Core (Piond) v0.12.1.x](https://github.com/pioncoin/pion) for more advanced address queries. Additional services can be enabled to make a node more useful such as exposing new APIs, running a block explorer and wallet service.
+A Pion full node for building applications and services with Node.js. A node is extensible and can be configured to run additional services. At the minimum a node has an interface to [Pion Core (Piond) v0.12.3.x](https://github.com/pioncoin/pion) for more advanced address queries. Additional services can be enabled to make a node more useful such as exposing new APIs, running a block explorer and wallet service.
 
 ## Usages
 
